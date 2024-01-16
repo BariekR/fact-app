@@ -2,4 +2,4 @@
 
 (practice project)
 
-_Project to HTML/CSS/JS/React_
+_Project to practice HTML/CSS/JS/React_
