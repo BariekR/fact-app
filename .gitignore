@@ -4,6 +4,7 @@
 *.tmp
 *.zip
 logs
+dbInfo.txt
 
 ### Mac OS
 .DS_Store
